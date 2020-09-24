@@ -18,3 +18,7 @@ def plot_history(ticker, start = None, end = None):
 
     start_price, end_price = frame.iloc[0]['Close'], frame.iloc[-1]['Close']
     print("Return: {:.2f}%".format((end_price - start_price)/start_price*100))
+
+
+
+    asdfasdfasdfasdf
