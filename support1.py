@@ -22,3 +22,5 @@ def plot_history(ticker, start = None, end = None):
 
 
     asdfasdfasdfasdf
+
+    asdfasdfadsfadsasdfas
